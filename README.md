@@ -1,5 +1,5 @@
 Check-Host.net API Tool
-
+![لقطة شاشة للأداة](screen.png)
 أداة سطر أوامر تفاعلية تستعمل API موقع Check-Host.net
 لفحص حالة الهوستات عن طريق Ping وHTTP وTCP وDNS وعرض معلومات النودات
 
